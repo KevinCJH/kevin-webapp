@@ -15,10 +15,7 @@ const Styles = styled.div`
   .navbar-nav .nav-link {
     color: black;
     text-decoration: underline;
-
-    &:hover {
-      color: white;
-    }
+    font-weight: 500;
   }
 `;
 
