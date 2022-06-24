@@ -7,14 +7,12 @@ import profilePhoto from "../assets/profile.PNG";
 
 const Styles = styled.div`
   .navbar {
-    background-color: #ccc;
     font-family: "Open Sans";
   }
 
   .navbar-brand,
   .navbar-nav .nav-link {
     color: black;
-    text-decoration: underline;
     font-weight: 500;
   }
 `;
